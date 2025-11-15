@@ -1,0 +1,6 @@
+1. Неисправность ТС kb/medium/vehicle_breakdown.json
+2. Попытка подкупа kb/high/bribery.json
+3. Взрывное устройство kb/critical/bomb_threat.json
+4. Потеря служебного оружия kb/critical/weapon_loss.json
+5. Отказ связи kb/medium/comms_failure.json
+6. Вооружённое нападение kb/critical/armed_attack.json
