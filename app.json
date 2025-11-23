@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Оперативный Помощник Инкассатора",
-    "slug": "pomogai-incassator",
+    "slug": "pomogai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,5 +32,8 @@
         "projectId": "95bc8315-0771-43a1-af96-159c7d9630bf"
       }
     }
+  },
+  "cli": {
+    "appVersionSource": "remote"
   }
 }
